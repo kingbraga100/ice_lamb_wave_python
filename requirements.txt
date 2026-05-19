@@ -1,0 +1,14 @@
+# Core numerical/data processing
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+
+# Instrument communication
+pyvisa
+nidaqmx
+
+# GUI tools
+PyQt5
+pyqtgraph
